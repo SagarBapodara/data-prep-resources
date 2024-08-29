@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+This blog contains all the resources (A-Z) to prepare for roles: Data Analyst, Data Scientist & Machine Learning Engineer. 
 
-Maybe say a some things about yourself.
+<pre>
+Intended Use:
+- Learn and Document for future reference
+- Quick Revision for interviews
+- Help fellow learners who are targeting similar roles
+</pre>
 
-Or maybe what you plan to blog about.
+Note: This blog is still in progress.
