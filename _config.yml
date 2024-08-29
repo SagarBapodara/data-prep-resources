@@ -13,8 +13,6 @@ linkedin_username: "sagar-bapodara"
 #########################################################################################
 theme: "minima"
 
-rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
